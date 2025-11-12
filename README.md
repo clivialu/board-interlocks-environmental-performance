@@ -5,7 +5,7 @@ This repository contains supporting materials and analysis for the paper *“Boa
 ## Paper
 
 - **Title:** Board Interlocks, Absorptive Capacity and Environmental Performance  
-- **Authors:** Jing Lu, F. Mahmoudian, D. Yu, J. A. Nazari, & I. M. Herremans  
+- **Authors:** J. Lu, F. Mahmoudian, D. Yu, J. A. Nazari, & I. M. Herremans  
 - **Journal:** *Business Strategy and the Environment*, 30(8) (2021)  
 - **DOI:** [https://doi.org/10.1002/bse.2811](https://doi.org/10.1002/bse.2811)  
 - **Ranking / Impact:** ABDC A · Impact Factor 13.4
