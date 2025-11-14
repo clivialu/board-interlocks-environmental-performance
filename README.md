@@ -18,7 +18,7 @@ We find that interlocking directorates can serve as important channels for trans
 Firms with greater absorptive capacity (stronger internal systems for learning and integration) benefit more from these connections, leading to improved environmental performance.  
 The results highlight how board networks can indirectly foster better sustainability outcomes.
 
-## Paper Highlights: 
+## Paper Highlight: 
 
 | # | Why it matters | What the paper delivers |
 |---|---------------|-------------------------|
