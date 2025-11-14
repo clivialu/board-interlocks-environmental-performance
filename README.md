@@ -22,11 +22,11 @@ The results highlight how board networks can indirectly foster better sustainabi
 
 | # | Why it matters | What the paper delivers |
 |---|---------------|-------------------------|
-| **1** | **External knowledge × internal learning.** Boards connect firms to outside ideas, but value only materialises when the firm can absorb them. | Demonstrates that **absorptive capacity (R&D intensity) *amplifies* the positive effect of board interlocks on environmental performance**. |
-| **2** | **Diversity pays.** Stakeholders look for evidence that firms learn beyond their echo-chamber. | Finds that **a broader mix of interlocks—same-industry, cross-industry, and with environmental leaders—drives the biggest gains**. |
-| **3** | **Invest in R&D, not just talk.** Green rhetoric without capability risks failure. | Confirms **higher R&D intensity directly improves environmental performance** and moderates every interlock type. |
-| **4** | **Large-scale, multi-sector evidence.** Managers want generalisable insights. | Analyses **4,526 firm-years across the S&P 1500 (2009-2018)**, spanning 16 NAICS sectors.  |
-| **5** | **Granular proof, not anecdotes.** | Regression shows **total, same-industry, cross-industry, and leader interlocks all significantly boost environmental scores**. |
+| **1** | **External knowledge × internal learning.** Boards connect firms to outside ideas, but value only materialises when the firm can absorb them. | Demonstrates that absorptive capacity (R&D intensity) amplifies the positive effect of board interlocks on environmental performance**. |
+| **2** | **Diversity pays.** Stakeholders look for evidence that firms learn beyond their echo-chamber. | Finds that a broader mix of interlocks—same-industry, cross-industry, and with environmental leaders—drives the biggest gains. |
+| **3** | **Invest in R&D, not just talk.** Green rhetoric without capability risks failure. | Confirms higher R&D intensity directly improves environmental performance and moderates every interlock type. |
+| **4** | **Large-scale, multi-sector evidence.** Managers want generalisable insights. | Analyses 4,526 firm-years across the S&P 1500 (2009-2018), spanning 16 NAICS sectors.  |
+| **5** | **Granular proof, not anecdotes.** | Regression shows total, same-industry, cross-industry, and leader interlocks all significantly boost environmental scores. |
 
 ### Managerial takeaways
 
